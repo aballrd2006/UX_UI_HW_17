@@ -1,0 +1,89 @@
+.navigation {
+    text-align: left;
+    text-emphasis: none;
+    font-family: "Lato", helvetica, sans-serif;
+    font: normal normal 900 18px/22px Lato;
+    font-size: 16px;
+    letter-spacing: 0.45px;
+    word-spacing: 30px;
+}
+
+#navBar {
+    padding: 60px;
+    padding-left: 120px;
+    justify-content: left;
+}
+
+#navBar a {
+    cursor: pointer;
+    text-decoration: none;
+    color: #9a584d;
+  }
+
+#mainLeft {
+    padding-left: 120px;
+    padding-top: 150px;
+    justify-content: left;
+    float: left;
+    height: 500px;
+}
+
+h1 {
+    font: normal normal bold 40px/55px Playfair Display;
+    color: #333;
+}
+
+#mainRight {
+    float: right;
+    padding-right: 120px;
+    padding-top: 40px;
+    height: 500px;
+}
+
+.leftimage {
+
+}
+
+.rightText {
+
+}
+
+a {
+
+}
+
+.caseStudy {
+
+}
+
+.leftText {
+
+}
+
+.rightImage {
+
+}
+
+.bottomNav {
+
+}
+
+.connect {
+
+}
+
+.socialIcons {
+
+}
+
+.icons {
+
+}
+
+.footer {
+
+}
+
+#logo {
+    
+}
