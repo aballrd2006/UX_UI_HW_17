@@ -21,6 +21,21 @@
     color: #9a584d;
 }
 
+#sectionGrid {
+    margin: 0px auto;
+    display: grid;
+    max-height: 500px;
+    grid-template-rows: 500px 500px 500px 500px 250px 250px;
+    grid-template-columns: 1fr 1fr; 
+    grid-template-areas: 
+    "mainLeft mainRight"
+    "caseImage caseCopy"
+    "caseCopy2 caseImage2"
+    "caseImage3 caseCopy3"
+    "connect connect"
+    "footer footer";
+}
+
 #mainLeft {
     padding-left: 120px;
     padding-top: 100px;
@@ -39,7 +54,6 @@ h1 {
 #mainRight {
     float: left;
     margin: 0 auto;
-    padding-left: 120px;
     padding-top: 40px;
     background-color: #fff;
 }
